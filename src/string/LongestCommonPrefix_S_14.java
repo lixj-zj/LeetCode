@@ -17,14 +17,15 @@ import java.util.HashSet;
  * 说明:
  * 所有输入只包含小写字母 a-z 。
  * --------------------------------------
- * @ClassName: LongestCommonPrefix14.java
+ * @ClassName: LongestCommonPrefix_S_14.java
  * @Date: 2019/5/18 9:59
  * @SoftWare: IntelliJ IDEA
  * --------------------------------------
  * @Author: lixj
  * @Contact: lixj_zj@163.com
  **/
-public class LongestCommonPrefix14 {
+@SuppressWarnings("all")
+public class LongestCommonPrefix_S_14 {
     public static void main(String[] args) {
         String[] strs = {"flower", "flow", "flight"};
 //        System.out.println(solution.longestCommonPrefix(strs));

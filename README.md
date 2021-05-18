@@ -20,3 +20,8 @@ LeetCode的愉快之旅
  - 搜索  
  - 动态规划  
  - 数学  
+
+
+S simple  
+M medium  
+H hard 

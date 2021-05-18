@@ -1,4 +1,4 @@
-package simple.array;
+package array;
 
 /**
  * @Description: 1480. 一维数组的动态和

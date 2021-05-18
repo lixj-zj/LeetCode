@@ -79,7 +79,7 @@ class Solution_206 {
 
 
 class ListNode {
-    int val;
+    int data;
     ListNode next;
 
     ListNode(int x) {
