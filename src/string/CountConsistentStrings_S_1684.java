@@ -1,8 +1,6 @@
-package jvm;
+package string;
 
-import java.util.Arrays;
 import java.util.HashSet;
-import java.util.Set;
 
 /**
  * @Description: 1684. 统计一致字符串的数目
